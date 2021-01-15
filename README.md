@@ -1,5 +1,5 @@
 # darkmode_bookmark
-[![bookmark](enable dark mode from bookmark with Darkmode.js)[https://github.com/wadeseldom/darkmode_bookmark]
+[![bookmark](enable dark mode from bookmark with Darkmode.js)[https://github.com/wadeseldom/darkmode_bookmark] 
 
 https://img.shields.io/badge/-bookmark-green?style=for-the-badge
 ```javascript
